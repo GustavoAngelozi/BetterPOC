@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6nxLgDTZe9ZVfiLRno5FgK2kUyve3vwF7opNjWGqjvk=",
+  "Source": "BetterPOCAPI",
+  "BasePath": "_content/BetterPOCAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
